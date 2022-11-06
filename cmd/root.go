@@ -8,8 +8,8 @@ import (
 
 var rootCmd = &cobra.Command{
 	Use:   "kitTools",
-	Short: "kitTools",
-	Long:  "kitTools",
+	Short: "Command line tool",
+	Long:  "Command line tool",
 }
 
 func Execute() {
